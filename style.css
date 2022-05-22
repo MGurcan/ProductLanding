@@ -1,0 +1,152 @@
+body{
+    background-color: rgb(243, 237, 229);
+}
+#header-left{
+    margin: 30px;
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#header-right{
+    text-align: right;
+    margin: 30px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#main-header{
+    text-align: center;
+    margin: 25px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#email{
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 25px;
+    border-radius: 10px;
+}
+#submit-button{
+    align-items: center;
+    width: 20%;
+    height: 30px;
+    border: none;
+    outline: none;
+    background: #2f2f2f;
+    color: #fff;
+    font-size: 22px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 6px 20px -5px rgba(0,0,0,0.4);
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#select-button{
+    margin-left: 35%;
+    align-items: center;
+    width: 100px;
+    height: 30px;
+    border: none;
+    outline: none;
+    background: #2f2f2f;
+    color: #fff;
+    font-size: 15px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 6px 20px -5px rgba(0,0,0,0.4);
+    position: relative;
+    overflow: hidden;
+    cursor: pointer;
+}
+#img-trambone{
+    width: 80px;
+}
+#img-alev{
+    width: 80px;
+}
+#madde{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#youtube-link{
+    padding-left: 28%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.flexbox{
+    display: flex;
+    border-radius: 10px;
+}
+.flex-1{
+    border: 3px solid rgb(62, 49, 49);
+    border-radius: 10px;
+    
+    order: 1;
+    flex-grow: 1;
+    background-color: rgb(218, 214, 211);
+}
+.flex-2{
+    border: 3px solid rgb(62, 49, 49);
+    order: 2;
+    flex-grow: 1;
+    background-color: rgb(218, 214, 211);
+}
+.flex-3{
+    border: 3px solid rgb(62, 49, 49);
+    order: 3;
+    flex-grow: 1;
+    background-color: rgb(218, 214, 211);
+}
+#class1-up{
+    border: 3px solid rgb(62, 49, 49);
+    background-color: rgb(167, 164, 160);
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#class2-up{
+    border: 3px solid rgb(62, 49, 49);
+    background-color: rgb(167, 164, 160);
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#class3-up{
+    border: 3px solid rgb(62, 49, 49);
+    background-color: rgb(167, 164, 160);
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#class1-down{
+   
+    background-color: rgb(217, 213, 209);
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#class2-down{
+   
+    background-color: rgb(217, 213, 209);
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#class3-down{
+   
+    background-color: rgb(217, 213, 209);
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#footer{
+    background-color: rgb(167, 164, 160);
+    text-align: right;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18px;
+    padding-right: 3%;
+    margin-top: 5%;
+    
+}
